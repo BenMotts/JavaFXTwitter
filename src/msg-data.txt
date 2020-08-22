@@ -1,0 +1,2 @@
+{"from":"ben","_class":"Message","body":"Hi there","when":5}
+{"from":"ben","_class":"Message","body":"How are you #hello ","when":56}
